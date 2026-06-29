@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Custom AI banner — upload ai-banner.png to an assets/ folder in this repo, path below already matches -->
-<img src="https://raw.githubusercontent.com/korneajay/korneajay/main/assets/ai-banner.png" width="100%" alt="Korne Ajay banner"/>
+<img src="https://kommodo.ai/i/EKsNeuHzJUKxQC1wJHAy" width="100%" alt="Korne Ajay banner"/>
 
 </div>
 
