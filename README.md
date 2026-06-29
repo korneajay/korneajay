@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=180&section=header&text=Korne%20Ajay&fontSize=42&fontAlignY=32&desc=Aspiring%20Software%20Engineer%20|%20Java%20Backend%20Developer&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+<!-- Custom AI banner — upload ai-banner.png to an assets/ folder in this repo, path below already matches -->
+<img src="https://raw.githubusercontent.com/korneajay/korneajay/main/assets/ai-banner.png" width="100%" alt="Korne Ajay banner"/>
 
 </div>
 
