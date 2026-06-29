@@ -5,8 +5,11 @@
 
 <div align="center">
 
+<!-- Animated wave banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DB33F&height=200&section=header&text=Korne%20Ajay&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
 <!-- EDIT: swap the typing text below at https://readme-typing-svg.demolab.com -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Java+Backend+Developer;Full-Stack+Builder+(Java+%7C+Spring+Boot+%7C+React);Solving+problems+with+code+%26+DSA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Java+Backend+Developer;Full-Stack+Builder+(Java+%7C+Spring+Boot+%7C+REST+APIs);Solving+problems+with+code+%26+DSA" alt="Typing SVG" />
 
 # Hi there 👋, I'm Korne Ajay
 
@@ -45,10 +48,12 @@ I have a track record of **independently designing and shipping complete systems
 
 ## 🛠️ Technical Skills
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- Animated hover skill icons -->
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,postman,mysql&theme=dark" />
+  </a>
+</p>
 
 **Core CS Fundamentals**
 
@@ -85,6 +90,22 @@ Full-stack platform connecting farmers with machinery owners for **online equipm
 **Software Engineering Job Simulation — JPMorgan Chase & Co. (Forage)** · *May – Jul 2024*
 - Built a multi-endpoint REST API with backend services in Java and Spring Boot for a simulated enterprise application
 - Integrated an H2 database layer and wrote test cases covering core API functionality, applying enterprise data-handling and integration patterns
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<!-- 
+  EDIT: This animates your GitHub contribution graph as a snake eating your commits.
+  Setup (one-time, ~2 min): 
+  1. Go to github.com/Platane/snk → click "Use this template" 
+  2. In your new repo, the included GitHub Action will auto-generate the SVGs below on a schedule
+  3. Replace "korneajay" in the URLs below if needed — they already point to your username
+-->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/korneajay/korneajay/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</div>
 
 <br/>
 
@@ -159,3 +180,5 @@ Full-stack platform connecting farmers with machinery owners for **online equipm
 ⭐️ *From building agri-tech platforms solo to shipping enterprise-style REST APIs — always learning, always building.* ⭐️
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:2E9EF7&height=120&section=footer" />
