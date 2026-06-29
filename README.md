@@ -33,7 +33,8 @@ const ajay = {
 };
 ```
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<!-- EDIT: replace with your own real photo if you want to swap it later -->
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/korneajay/korneajay/main/img.jpg">
 
 ### 🚀 What Drives Me
 
