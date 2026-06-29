@@ -19,18 +19,55 @@
 
 ## 🎯 About Me
 
-```typescript
-const ajay = {
-    location: "Hyderabad, India 🇮🇳",
-    education: "B.Tech IT - JNTUH @ Vardhaman College of Engineering (CGPA: 7.6)",
-    role: "Aspiring Software Engineer | Java Backend Developer",
-    currentFocus: ["Generative AI & Prompt Engineering", "System Design", "Spring Boot"],
-    passion: ["Building Full-Stack Systems", "Solving DSA Problems", "Shipping Real Products"],
-    superpower: "Designing & shipping complete systems solo",
-    motto: "Build it end-to-end, then make it better",
-    funFact: "Scored a perfect 10/10 CGPA in SSC — still chasing that precision in every commit!",
-    openTo: ["Internships", "Backend Roles", "Open-Source Collaboration"]
-};
+```java
+public class Ajay {
+
+    private final String role = "Aspiring Java Backend Engineer";
+    private final String location = "Hyderabad, India 🇮🇳";
+
+    private final String[] coreStack = {
+        "Java",
+        "Spring Boot",
+        "SQL",
+        "Hibernate",
+        "REST APIs"
+    };
+
+    private final String[] currentlyLearning = {
+        "Microservices",
+        "System Design",
+        "Generative AI",
+        "Docker",
+        "AWS"
+    };
+
+    private final String[] strengths = {
+        "Backend Development",
+        "Database Design",
+        "API Development",
+        "Problem Solving",
+        "DSA"
+    };
+
+    public String mission() {
+        return "Design scalable backend systems with clean architecture and optimized SQL.";
+    }
+
+    public void dailyRoutine() {
+        while (!success) {
+            code();
+            optimizeSQL();
+            solveDSA();
+            buildProjects();
+            learn();
+            repeat();
+        }
+    }
+
+    public String status() {
+        return "Building one Spring Boot project at a time 🚀";
+    }
+}
 ```
 
 <!-- EDIT: replace with your own real photo if you want to swap it later -->
