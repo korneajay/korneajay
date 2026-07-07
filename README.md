@@ -65,7 +65,7 @@ public class Ajay {
     }
 
     public String status() {
-        return "Building one Spring Boot project at a time 🚀";
+        return "Building one Spring Boot project at a time ";
     }
 }
 ```
@@ -86,7 +86,7 @@ public class Ajay {
 
 ---
 
-## 🏆 Achievements & Recognition
+##  Achievements & Recognition
 
 <table>
 <tr>
