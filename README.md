@@ -28,7 +28,7 @@ I am a B.Tech Information Technology student at Vardhaman College of Engineering
 
 
 ### 🚀 What Drives Me
-<p>
+
 - 💻 **Solo System Builder** — designed and shipped 2 full-stack platforms end-to-end on my own
 - 🏗️ **Backend-First Thinker** — REST APIs, JWT token auth, quota systems, real-time stock tracking
 - 🧩 **Algorithmic Problem Solver** — implemented Dijkstra's Algorithm from scratch for route optimization
@@ -39,7 +39,7 @@ I am a B.Tech Information Technology student at Vardhaman College of Engineering
 <br clear="right"/>
 
 ---
-</p>
+
 ## 🏆 Achievements & Recognition
 
 <table>
