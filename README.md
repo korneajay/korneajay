@@ -89,7 +89,7 @@ const ajay = {
 ### 🌾 Kisan Fertilize — Fair Distribution System
 
 <div align="center">
-  <img src="architecture(1).svg" width="100%" alt="Kisan Fertilize architecture diagram"/>
+  <img src="architecture.svg" width="100%" alt="Kisan Fertilize architecture diagram"/>
 </div>
 
 <div align="center">
