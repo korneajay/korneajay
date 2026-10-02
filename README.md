@@ -39,7 +39,7 @@ const ajay = {
 ### 🚀 What Drives Me
 
 - 💻 **Solo System Builder** — designed and shipped 2 full-stack platforms end-to-end on my own
-- 🏗️ **Backend-First Thinker** — REST APIs, OTP auth, quota systems, real-time stock tracking
+- 🏗️ **Backend-First Thinker** — REST APIs, JWT token auth, quota systems, real-time stock tracking
 - 🧩 **Algorithmic Problem Solver** — implemented Dijkstra's Algorithm from scratch for route optimization
 - 👥 **Team Leader** — led and mentored a 10-member peer team across academic & workshop initiatives
 - ⚡ **Fast Learner** — picked up GenAI prompt engineering, OS, and ServiceNow fundamentals this year alone
@@ -86,12 +86,33 @@ const ajay = {
 
 ## 💼 Featured Projects
 
+### 🌾 Kisan Fertilize — Fair Distribution System
+
+<div align="center">
+  <img src="architecture(1).svg" width="100%" alt="Kisan Fertilize architecture diagram"/>
+</div>
+
 <div align="center">
 
-| Project | Description | Tech Stack | Repo |
-|---------|-------------|------------|------|
-| 🌾 **Kisan Fertilize** | Fair fertilizer booking & distribution system for farmers — 3-role access (Farmer/Dealer/Admin), OTP auth, quota management | Java, Spring Boot, Hibernate, MySQL, React | [View Repo →](https://github.com/korneajay/urea_booking_system) |
-| 🚜 **Farmer Machines** | Farm machinery rental platform with Dijkstra's-Algorithm-based dispatch routing for optimal inter-village distance | Java, Spring Boot, Hibernate, MySQL/H2, Docker | [View Repo →](https://github.com/korneajay/farmer-machines) |
+| Detail | Info |
+|--------|------|
+| 📌 **Description** | Fair fertilizer booking & distribution system for farmers — 3-role access (Farmer/Dealer/Admin), JWT token authentication, quota management |
+| 🛠️ **Tech Stack** | Java · Spring Boot · Hibernate · MySQL · React · Vite |
+| 🔗 **Repo** | [View Repo →](https://github.com/korneajay/urea_booking_system) |
+
+</div>
+
+---
+
+### 🚜 Farmer Machines — Machinery Rental Platform
+
+<div align="center">
+
+| Detail | Info |
+|--------|------|
+| 📌 **Description** | Farm machinery rental platform with Dijkstra's-Algorithm-based dispatch routing for optimal inter-village distance |
+| 🛠️ **Tech Stack** | Java · Spring Boot · Hibernate · MySQL/H2 · Docker |
+| 🔗 **Repo** | [View Repo →](https://github.com/korneajay/farmer-machines) |
 
 </div>
 
@@ -232,4 +253,3 @@ I'm always excited to connect with fellow developers, contribute to interesting 
 *Last Updated: June 2026*
 
 </div>
-
