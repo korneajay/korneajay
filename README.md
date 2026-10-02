@@ -1,9 +1,5 @@
-<h1 align="center">Korne Ajay</h1>
-
 <p align="center">
-  <b>Java Backend Engineer</b> · Hyderabad, India
-  <br/>
-  <sub>I build backend systems that enforce real-world rules: quotas, roles, and routes.</sub>
+  <img src="./assets/header.svg" alt="Korne Ajay, Java Backend Engineer" width="100%"/>
 </p>
 
 <p align="center">
@@ -11,11 +7,13 @@
   <a href="mailto:korneajayk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
+<p align="center"><sub>I build backend systems that enforce real-world rules: quotas, roles, and routes.</sub></p>
+
 ---
 
 ## About
 
-Final-stage student engineer focused on **Java, Spring Boot and SQL**. I like problems where the logic matters more than the UI: who is allowed to do what, how much of a limited resource each person gets, and what the shortest path is.
+Student engineer focused on **Java, Spring Boot and SQL**. I like problems where the logic matters more than the UI: who is allowed to do what, how much of a limited resource each person gets, and what the shortest path is.
 
 I have designed and shipped two full-stack platforms end-to-end on my own, and I'm now going deeper into microservices, system design and cloud.
 
@@ -23,19 +21,42 @@ I have designed and shipped two full-stack platforms end-to-end on my own, and I
 
 ## Selected Work
 
-### 🌾 [Kisan Fertilize](https://github.com/korneajay/urea_booking_system)
-**Problem:** Fertilizer distribution is often unfair and hard to track.
-**Solution:** A booking and distribution system with three roles (Farmer, Dealer, Admin), OTP-based authentication and per-farmer quota management.
-`Java` `Spring Boot` `Hibernate` `MySQL` `React`
-
 ### 🚜 [Farmer Machines](https://github.com/korneajay/farmer-machines)
+
+<p align="center">
+  <img src="./assets/dijkstra.svg" alt="Animated Dijkstra shortest path from depot to farm" width="85%"/>
+</p>
+
 **Problem:** Farm machinery sits idle while nearby farmers need it.
 **Solution:** A rental platform that uses **Dijkstra's algorithm**, implemented from scratch, to dispatch machines along the shortest inter-village routes.
 `Java` `Spring Boot` `Hibernate` `MySQL/H2` `Docker`
 
+### 🌾 [Kisan Fertilize](https://github.com/korneajay/urea_booking_system)
+
+<p align="center">
+  <img src="./assets/architecture.svg" alt="Animated request flow through the Kisan Fertilize architecture" width="85%"/>
+</p>
+
+**Problem:** Fertilizer distribution is often unfair and hard to track.
+**Solution:** A booking and distribution system with three roles (Farmer, Dealer, Admin), OTP-based authentication and per-farmer quota management.
+`Java` `Spring Boot` `Hibernate` `MySQL` `React`
+
+---
+
+## Engineering Approach
+
+- **Model the rules first.** Roles, quotas and constraints are defined before any endpoint is written.
+- **Keep layers separate.** Controller, service and repository each have one job, so business rules stay testable.
+- **Pick algorithms by complexity, not habit.** Dijkstra with a min-heap runs in O((V + E) log V); with a plain array it is O(V²).
+- **Test the rules, not just the routes.** Quota limits and role access are where bugs cost real users.
+
 ---
 
 ## Toolkit
+
+<p align="center">
+  <img src="./assets/stack.svg" alt="Java, Spring Boot, Hibernate, SQL, MySQL, REST APIs, Docker, AWS, React, DSA" width="100%"/>
+</p>
 
 | | |
 |---|---|
@@ -62,7 +83,5 @@ Built a multi-endpoint REST API in Java and Spring Boot with an H2 database laye
 Backend / Software Engineering internships and entry-level roles, and open-source collaboration.
 
 **Best way to reach me:** [korneajayk@gmail.com](mailto:korneajayk@gmail.com) or [LinkedIn](https://linkedin.com/in/korne-ajay)
-
----
 
 <p align="center"><sub>Build it end-to-end, then make it better.</sub></p>
