@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Custom AI banner — upload ai-banner.png to an assets/ folder in this repo, path below already matches -->
-<img src="ajuu.png" width="50%" alt="Korne Ajay banner"/>
+<img src="ajuu.png" width="20%" alt="Korne Ajay banner"/>
 
 </div>
 
