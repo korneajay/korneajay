@@ -20,16 +20,10 @@
 ## 🎯 About Me
 
 <p>
-    location: "Hyderabad, India 🇮🇳",
-    education: "B.Tech IT - JNTUH @ Vardhaman College of Engineering (CGPA: 7.6)",
-    role: "Aspiring Software Engineer | Java Backend Developer",
-    currentFocus: ["Generative AI & Prompt Engineering", "System Design", "Spring Boot"],
-    passion: ["Building Full-Stack Systems", "Solving DSA Problems", "Shipping Real Products"],
-    superpower: "Designing & shipping complete systems solo",
-    motto: "Build it end-to-end, then make it better",
-    funFact: "Scored a perfect 10/10 CGPA in SSC — still chasing that precision in every commit!",
-    openTo: ["Internships", "Backend Roles", "Open-Source Collaboration"]
-```</p>
+I am a B.Tech Information Technology student at Vardhaman College of Engineering with a strong interest in backend and full-stack development using Java and Spring Boot. I have independently developed and deployed full-stack projects, including a Spring Boot microservices-based fertilizer distribution system and a Java/MySQL-based farm machinery rental platform. I have hands-on experience with REST APIs, Spring Data JPA, Hibernate, MySQL, Git, GitHub, Postman, and Docker, along with a strong foundation in Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks. I am a self-driven learner with strong problem-solving, adaptability, teamwork, and presentation skills, seeking opportunities to build scalable software solutions and grow as a software engineer.
+
+
+</p>
 
 
 
