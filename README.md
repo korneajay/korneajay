@@ -1,256 +1,68 @@
-<div align="center">
+<h1 align="center">Korne Ajay</h1>
 
-<!-- Custom AI banner — upload ai-banner.png to an assets/ folder in this repo, path below already matches -->
-<img src="https://raw.githubusercontent.com/korneajay/korneajay/main/ai-banner.png" width="100%" alt="Korne Ajay banner"/>
+<p align="center">
+  <b>Java Backend Engineer</b> · Hyderabad, India
+  <br/>
+  <sub>I build backend systems that enforce real-world rules: quotas, roles, and routes.</sub>
+</p>
 
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=black)](https://linkedin.com/in/korne-ajay)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](mailto:korneajayk@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=black)](https://github.com/korneajay)
-
-<img src="https://komarev.com/ghpvc/?username=korneajay&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/korne-ajay"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:korneajayk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
-##  About Me
+## About
 
-```java
-public class Korne_Ajay {
+Final-stage student engineer focused on **Java, Spring Boot and SQL**. I like problems where the logic matters more than the UI: who is allowed to do what, how much of a limited resource each person gets, and what the shortest path is.
 
-    private final String role = "Aspiring Java Backend Engineer";
-    private final String location = "Hyderabad, India 🇮🇳";
-
-    private final String[] coreStack = {
-        "Java",
-        "Spring Boot",
-        "SQL",
-        "Hibernate",
-        "REST APIs"
-    };
-
-    private final String[] currentlyLearning = {
-        "Microservices",
-        "System Design",
-        "Generative AI",
-        "Docker",
-        "AWS"
-    };
-
-    private final String[] strengths = {
-        "Backend Development",
-        "Database Design",
-        "API Development",
-        "Problem Solving",
-        "DSA"
-    };
-
-    public String mission() {
-        return "Design scalable backend systems with clean architecture and optimized SQL.";
-    }
-
-    public void dailyRoutine() {
-        while (!success) {
-            code();
-            optimizeSQL();
-            solveDSA();
-            buildProjects();
-            learn();
-            repeat();
-        }
-    }
-
-    public String status() {
-        return "Building one Spring Boot project at a time ";
-    }
-}
-```
-
-<!-- EDIT: replace with your own real photo if you want to swap it later -->
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/korneajay/korneajay/main/img.jpg">
-
-### 🚀 What Drives Me
-
-- 💻 **Solo System Builder** — designed and shipped 2 full-stack platforms end-to-end on my own
-- 🏗️ **Backend-First Thinker** — REST APIs, OTP auth, quota systems, real-time stock tracking
-- 🧩 **Algorithmic Problem Solver** — implemented Dijkstra's Algorithm from scratch for route optimization
-- 👥 **Team Leader** — led and mentored a 10-member peer team across academic & workshop initiatives
-- ⚡ **Fast Learner** — picked up GenAI prompt engineering, OS, and ServiceNow fundamentals this year alone
-- 🎯 **Detail-Oriented** — strong grounding in DSA, OS, CN, and DBMS fundamentals
-
-<br clear="right"/>
+I have designed and shipped two full-stack platforms end-to-end on my own, and I'm now going deeper into microservices, system design and cloud.
 
 ---
 
-##  Achievements & Recognition
+## Selected Work
 
-<table>
-<tr>
-<td width="50%">
+### 🌾 [Kisan Fertilize](https://github.com/korneajay/urea_booking_system)
+**Problem:** Fertilizer distribution is often unfair and hard to track.
+**Solution:** A booking and distribution system with three roles (Farmer, Dealer, Admin), OTP-based authentication and per-farmer quota management.
+`Java` `Spring Boot` `Hibernate` `MySQL` `React`
 
-### 👥 Leadership
-- 🏆 **Project Leader** — led & mentored a 10-member peer team
-- 🧩 Active competitive programmer on **HackerRank**
-- 🤲 Volunteer — **Marpu Foundation**, Hyderabad
-
-</td>
-<td width="50%">
-
-### 📜 Certifications
-- ✅ Java Essentials — Infosys Springboard
-- ✅ DevOps and Networking Workshop — Code For India Foundation
-- ✅ GenAI: Prompt Engineering & Automation — Pantech Solutions
-- ✅ Operating Systems Basics — Cisco Networking Academy
-- ✅ Welcome to ServiceNow — ServiceNow
-
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### 🎓 Internship Experience
-- 💼 **Software Engineering Job Simulation — JPMorgan Chase & Co. (Forage)** *(May–Jul 2024)* — Built a multi-endpoint REST API in Java & Spring Boot, integrated an H2 database layer, and wrote test cases covering core API functionality using enterprise data-handling patterns
-
-</td>
-</tr>
-</table>
+### 🚜 [Farmer Machines](https://github.com/korneajay/farmer-machines)
+**Problem:** Farm machinery sits idle while nearby farmers need it.
+**Solution:** A rental platform that uses **Dijkstra's algorithm**, implemented from scratch, to dispatch machines along the shortest inter-village routes.
+`Java` `Spring Boot` `Hibernate` `MySQL/H2` `Docker`
 
 ---
 
-## 💼 Featured Projects
+## Toolkit
 
-<div align="center">
-
-| Project | Description | Tech Stack | Repo |
-|---------|-------------|------------|------|
-| 🌾 **Kisan Fertilize** | Fair fertilizer booking & distribution system for farmers — 3-role access (Farmer/Dealer/Admin), OTP auth, quota management | Java, Spring Boot, Hibernate, MySQL, React | [View Repo →](https://github.com/korneajay/urea_booking_system) |
-| 🚜 **Farmer Machines** | Farm machinery rental platform with Dijkstra's-Algorithm-based dispatch routing for optimal inter-village distance | Java, Spring Boot, Hibernate, MySQL/H2, Docker | [View Repo →](https://github.com/korneajay/farmer-machines) |
-
-</div>
+| | |
+|---|---|
+| **Backend** | Java · Spring Boot · Hibernate · REST APIs |
+| **Data** | SQL · MySQL · H2 |
+| **Fundamentals** | DSA · Operating Systems · Computer Networks · DBMS |
+| **Learning now** | Microservices · System Design · Docker · AWS · Generative AI |
 
 ---
 
-## 🛠️ Tech Arsenal
+## Experience & Credentials
 
-<div align="center">
+**Software Engineering Job Simulation, JPMorgan Chase & Co.** (Forage, May to Jul 2024)
+Built a multi-endpoint REST API in Java and Spring Boot with an H2 database layer, plus test cases for core functionality.
 
-### Languages & Core
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Leadership:** led and mentored a 10-member peer team on academic and workshop projects. Volunteer at Marpu Foundation, Hyderabad.
 
-### Core CS Fundamentals
-![Computer Networks](https://img.shields.io/badge/Computer%20Networks-2E9EF7?style=for-the-badge)
-![Operating Systems](https://img.shields.io/badge/Operating%20Systems-2E9EF7?style=for-the-badge)
-![Computer Organization & Architecture](https://img.shields.io/badge/Computer%20Org.%20%26%20Architecture-2E9EF7?style=for-the-badge)
-
-</div>
+**Certifications:** Java Essentials (Infosys Springboard) · GenAI Prompt Engineering (Pantech) · DevOps & Networking (Code For India) · OS Basics (Cisco) · ServiceNow Fundamentals
 
 ---
 
-## 📊 GitHub Analytics
+## Open To
 
-<div align="center">
+Backend / Software Engineering internships and entry-level roles, and open-source collaboration.
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=korneajay&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=korneajay&theme=radical&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=korneajay&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=korneajay&theme=react-dark&hide_border=true&area=true" />
-
-</div>
+**Best way to reach me:** [korneajayk@gmail.com](mailto:korneajayk@gmail.com) or [LinkedIn](https://linkedin.com/in/korne-ajay)
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=korneajay&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-
-## 💭 Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-```mermaid
-mindmap
-  root((Ajay's Journey))
-    Learning
-      Generative AI & Prompt Engineering
-      System Design
-      ServiceNow Platform
-      Advanced DSA
-    Building
-      Full-Stack Java Systems
-      REST API Architectures
-      Agri-Tech Platforms
-    Growing
-      Open Source Contributions
-      Tech Leadership
-      Competitive Programming
-```
-
----
-
-## 🤝 Let's Connect & Collaborate!
-
-<div align="center">
-
-I'm always excited to connect with fellow developers, contribute to interesting projects, or talk about backend engineering and system design!
-
-### 📬 Reach Out
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/korne-ajay)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/korneajay)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:korneajayk@gmail.com)
-
-### 💼 Open For
-
-- 💻 Software Engineering / Backend Developer Internships
-- 🏗️ Full-Stack Development Projects (Java + Spring Boot + React)
-- 📚 Learning & Knowledge Sharing
-- 🚀 Open-Source Collaboration
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 "Build it end-to-end, then make it better" ✨
-
-**Thanks for visiting! Let's build something amazing together 🚀**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,11,20&height=100&section=footer" width="100%"/>
-
-</div>
-
----
-
-<div align="center">
-
-**Made with ☕ and a lot of debugging by Korne Ajay**
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Java+Backend+Developer;Full-Stack+Builder;Always+Learning+New+Things;Open+to+Opportunities!)
-
-*Last Updated: June 2026*
-
-</div>
+<p align="center"><sub>Build it end-to-end, then make it better.</sub></p>
