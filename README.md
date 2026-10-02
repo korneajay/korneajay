@@ -17,10 +17,10 @@
 
 ---
 
-## 🎯 About Me
+##  About Me
 
 ```java
-public class Ajay {
+public class Korne_Ajay {
 
     private final String role = "Aspiring Java Backend Engineer";
     private final String location = "Hyderabad, India 🇮🇳";
@@ -177,21 +177,6 @@ public class Ajay {
 
 ---
 
-## 📈 Contribution Graph
-
-<!-- 
-  EDIT — Contribution snake (one-time setup):
-  1. Add .github/workflows/snake.yml (provided separately) to this repo
-  2. Run the Action once → it creates an "output" branch with the SVGs
-  3. Once live, this animates automatically
--->
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/korneajay/korneajay/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 ## 💭 Dev Quote
 
