@@ -172,7 +172,7 @@ const ajay = {
 
 
 <div align="center">
-  <img src="snake.svg" width="50%" alt="Contribution"/>
+  <img src="snake.svg" width="100%" alt="Contribution"/>
 </div>
 
 </div>
