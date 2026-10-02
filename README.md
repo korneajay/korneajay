@@ -169,9 +169,11 @@ const ajay = {
   2. Run the Action once → it creates an "output" branch with the SVGs
   3. Once live, this animates automatically
 -->
-<div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/korneajay/korneajay/output/github-contribution-grid-snake-dark.svg)
+
+<div align="center">
+  <img src="snake.svg" width="50%" alt="Contribution"/>
+</div>
 
 </div>
 
