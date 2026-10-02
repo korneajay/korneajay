@@ -19,8 +19,7 @@
 
 ## 🎯 About Me
 
-```typescript
-const ajay = {
+<p>
     location: "Hyderabad, India 🇮🇳",
     education: "B.Tech IT - JNTUH @ Vardhaman College of Engineering (CGPA: 7.6)",
     role: "Aspiring Software Engineer | Java Backend Developer",
@@ -30,13 +29,12 @@ const ajay = {
     motto: "Build it end-to-end, then make it better",
     funFact: "Scored a perfect 10/10 CGPA in SSC — still chasing that precision in every commit!",
     openTo: ["Internships", "Backend Roles", "Open-Source Collaboration"]
-};
-```
+```</p>
 
 
 
 ### 🚀 What Drives Me
-
+<p>
 - 💻 **Solo System Builder** — designed and shipped 2 full-stack platforms end-to-end on my own
 - 🏗️ **Backend-First Thinker** — REST APIs, JWT token auth, quota systems, real-time stock tracking
 - 🧩 **Algorithmic Problem Solver** — implemented Dijkstra's Algorithm from scratch for route optimization
@@ -47,7 +45,7 @@ const ajay = {
 <br clear="right"/>
 
 ---
-
+</p>
 ## 🏆 Achievements & Recognition
 
 <table>
